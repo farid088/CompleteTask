@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|c:\\users\\farid nasibov\\source\\repos\\consoleapp30\\consoleapp30\\moviehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|solutionrelative:consoleapp30\\moviehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|c:\\users\\farid nasibov\\source\\repos\\consoleapp30\\consoleapp30\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|solutionrelative:consoleapp30\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|c:\\users\\farid nasibov\\source\\repos\\consoleapp30\\consoleapp30\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|solutionrelative:consoleapp30\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|c:\\users\\farid nasibov\\source\\repos\\consoleapp30\\consoleapp30\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|solutionrelative:consoleapp30\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|c:\\users\\farid nasibov\\source\\repos\\consoleapp30\\consoleapp30\\moviestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|solutionrelative:consoleapp30\\moviestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|c:\\users\\farid nasibov\\source\\repos\\consoleapp30\\consoleapp30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDF96D7-922B-469F-9EEF-D6336D17118A}|ConsoleApp30\\ConsoleApp30.csproj|solutionrelative:consoleapp30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\MovieHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp30\\MovieHelper.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\MovieHelper.cs",
+              "RelativeToolTip": "ConsoleApp30\\MovieHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:03:39.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\Exception.cs",
+              "RelativeDocumentMoniker": "ConsoleApp30\\Exception.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\Exception.cs",
+              "RelativeToolTip": "ConsoleApp30\\Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:01:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\MovieService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp30\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\MovieService.cs",
+              "RelativeToolTip": "ConsoleApp30\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:58:39.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\Movie.cs",
+              "RelativeDocumentMoniker": "ConsoleApp30\\Movie.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\Movie.cs",
+              "RelativeToolTip": "ConsoleApp30\\Movie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:50:57.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\MovieStatus.cs",
+              "RelativeDocumentMoniker": "ConsoleApp30\\MovieStatus.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\MovieStatus.cs",
+              "RelativeToolTip": "ConsoleApp30\\MovieStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:50:18.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp30\\Program.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\ConsoleApp30\\ConsoleApp30\\Program.cs",
+              "RelativeToolTip": "ConsoleApp30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:49:12.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
